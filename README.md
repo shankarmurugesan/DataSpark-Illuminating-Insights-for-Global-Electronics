@@ -39,15 +39,10 @@ The repository contains the following files and directories:
 
 **DatasparkDash1.ipynb:** Jupyter Notebook detailing the entire process of data cleaning, preprocessing, and analysis.
 
-**Report.pdf:** A comprehensive report that outlines the analysis, findings, and strategic recommendations.
-
-**Datasets/:** Folder containing the raw and cleaned datasets used in the analysis.
-
-**Visualizations/:** Folder containing Power BI dashboards and visualizations created during the analysis.
-
-**SQL_Queries.sql:** A file that contains the SQL queries used to extract insights from the data.
+**Datasets:** Folder containing the raw and cleaned datasets used in the analysis.
 
 **README.md:** This file, providing a detailed project overview and instructions for replicating the analysis.
+
 
 **Instructions**
 
@@ -61,7 +56,7 @@ To run the project locally, ensure the following software is installed:
 
 pandas
 numpy
-matplotlib
+powerbi
 seaborn
 
 **Cloning the Repository**

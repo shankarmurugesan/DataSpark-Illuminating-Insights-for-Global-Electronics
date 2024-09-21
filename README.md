@@ -51,24 +51,15 @@ The repository contains the following files and directories:
 To run the project locally, ensure the following software is installed:
 
 **Python 3.x:** The project is written in Python, and a Python 3.x environment is required.
+
 **colab:** Required to run the notebook file for data analysis.
+
 **Python Libraries:** Install the following libraries using pip:
 
 pandas
 numpy
 powerbi
 seaborn
-
-**Cloning the Repository**
-
-To get a local copy of the project up and running, follow these steps:
-
-1) **Clone the repository:**
-   git clone https://github.com/YourUsername/Global-Electronics-EDA.git
-
-2) **Navigate to the project directory:**
-   cd DataSpark-Illuminating-Insights-for-Global-Electronics
-
 
 **Results and Insights**
 
@@ -102,6 +93,7 @@ Upon completing the project, the findings will be consolidated into a comprehens
 **Visualizations:**
 
 The project includes the following key visualizations created using Power BI:
+
 Sales trend charts over time.
 Customer demographics distribution.
 Sales performance by product and store.

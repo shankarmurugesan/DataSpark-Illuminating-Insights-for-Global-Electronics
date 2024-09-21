@@ -44,7 +44,7 @@ The repository contains the following files and directories:
 **README.md:** This file, providing a detailed project overview and instructions for replicating the analysis.
 
 
-**Instructions**
+
 
 **Prerequisites**
 
@@ -89,6 +89,7 @@ Upon completing the project, the findings will be consolidated into a comprehens
 **Store Optimization:** Pinpointing high-performing regions and optimizing store operations accordingly.
 
 **Currency Fluctuation Analysis:** Evaluating the impact of international currency exchange rates on sales.
+
 
 **Visualizations:**
 

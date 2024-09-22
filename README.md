@@ -33,17 +33,6 @@ Based on our findings, the following actions are recommended:
 Optimize Inventory Management: Use sales trends and patterns to improve inventory forecasting and avoid stockouts or excess stock.
 International Pricing Strategy: Refine international pricing strategies by accounting for the impact of currency fluctuations to maximize profits.
 
-**Contents**
-
-The repository contains the following files and directories:
-
-**DatasparkDash1.ipynb:** Jupyter Notebook detailing the entire process of data cleaning, preprocessing, and analysis.
-
-**Datasets:** Folder containing the raw and cleaned datasets used in the analysis.
-
-**README.md:** This file, providing a detailed project overview and instructions for replicating the analysis.
-
-
 
 
 **Prerequisites**
@@ -77,29 +66,6 @@ Upon completing the project, the findings will be consolidated into a comprehens
 
 **Currency Impact:** How currency exchange rates impact sales and pricing strategies in different regions.
 
-
-**Key Learnings:**
-
-**Customer Behavior Analysis:** Uncovering how demographic factors affect purchasing decisions.
-
-**Sales Trends Identification:** Understanding how sales are influenced by seasonality, store performance, and product categories.
-
-**Product Profitability:** Identifying which products generate the most revenue and which need improvements.
-
-**Store Optimization:** Pinpointing high-performing regions and optimizing store operations accordingly.
-
-**Currency Fluctuation Analysis:** Evaluating the impact of international currency exchange rates on sales.
-
-
-**Visualizations:**
-
-The project includes the following key visualizations created using Power BI:
-
-Sales trend charts over time.
-Customer demographics distribution.
-Sales performance by product and store.
-Profit margins by product categories.
-Geographical maps showing sales by location.
 
 **Prerequisites for Analysis**
 

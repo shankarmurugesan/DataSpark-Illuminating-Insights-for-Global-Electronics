@@ -50,23 +50,6 @@ numpy
 powerbi
 seaborn
 
-**Results and Insights**
-
-Upon completing the project, the findings will be consolidated into a comprehensive EDA report that includes
-
-**Customer Demographics:** Insights into customer gender, age, and location distribution.
-
-**Purchase Patterns:** Patterns such as frequent purchases, preferred products, and high-value transactions.
-
-**Sales Performance:** An overview of sales trends over time, product-wise performance, and the influence of store location on revenue.
-
-**Product Profitability:** Profit margins and product performance across categories and brands.
-
-**Store Operations:** A detailed analysis of store size, age, sales, and geographical performance.
-
-**Currency Impact:** How currency exchange rates impact sales and pricing strategies in different regions.
-
-
 **Prerequisites for Analysis**
 
 To replicate or extend the analysis, the following prerequisites are required:
@@ -83,6 +66,8 @@ Project Deliverables
 **Exploratory Data Analysis (EDA):** Comprehensive analysis with actionable insights.
 
 **Power BI Dashboards:** Interactive and visually compelling dashboards for business decision-making.
+
+
 
 
 **SAMPLE REPORT VISUALIZATION**
